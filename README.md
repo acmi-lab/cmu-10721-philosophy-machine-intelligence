@@ -8,4 +8,13 @@ In this course, we will address the origins of the field through the foundationa
 
 There are no formal prerequisites for this class. It is open to PhD students and MS and undergraduate students may enroll with permission from the instructor. The course will not involve much theorem proving or engineering but will be considerably more reading-intensive than a typical computer science course. Students are expected to keep up with each week’s readings, write thoughtful short responses digesting the main points and relating them to modern practice in the field, and to lead or co-lead the presentation/discussion of at least one reading during the semester.
 
+
+## Logistics 
+
+Instructor: [Zachary Lipton]
+Time: Fridays at 1:25pm
+Location: in person (room TBA)
+TA(s): TBD
+
+
 [syllabus and reading list forthcoming]
