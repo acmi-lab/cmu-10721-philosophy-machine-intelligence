@@ -1,4 +1,4 @@
-# Philosophical Foundations of Machine Intelligence
+# Carnegie Mellon University 10721: Philosophical Foundations of Machine Intelligence
 
 What is this field? What are its normative aims? What are its modes of inquiry? What are (and have been) its intellectual and ideological commitments? What foundational questions is it in dialogue with, and what foundational obstacles obstruct its progress? Finally: What are our responsibilities as researchers & practitioners deploying this technology?
 
