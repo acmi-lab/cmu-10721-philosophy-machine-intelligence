@@ -11,7 +11,7 @@ There are no formal prerequisites for this class. It is open to PhD students and
 
 ## Logistics 
 
-Instructor: [Zachary Lipton]
+Instructor: Zachary Lipton (Director of [ACMI lab](https://acmilab.org/))
 Time: Fridays at 1:25pm
 Location: in person (room TBA)
 TA(s): TBD
