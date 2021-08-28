@@ -1,7 +1,7 @@
 | Date | Topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Readings &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker(s) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Weekly Check-in |
 | ---: | :--- | :--- | :--- | :--- |
 |  9/3 | Intro and Logistics | None | Sivaraman Balakrishnan  | None |
-|  9/10 | | | | <a href="http://example.com/" target="_blank">Week 2</a> |
+|  9/10 | | | | <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8mog5kSfYiCBp-O1S2KGExCtFsM9nlJRYLuuP1SmO2fOv9Q/viewform" target="_blank">Week 2</a> |
 |  9/17 | | | | |
 |  9/24 | | | | |
 |  10/1 | | | | |
