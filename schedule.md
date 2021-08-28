@@ -1,6 +1,6 @@
 | Date | Topic | Readings |Speaker(s) | Weekly Check-in |
 | ---: | :--- | :--- | :--- | :--- |
-|  9/3 | Intro and Logistics | None | Sivaraman Balakrishnan  | None |
+|  9/3 | Intro and Logistics | None | Zack Lipton  | None |
 |  9/10 | | | | <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8mog5kSfYiCBp-O1S2KGExCtFsM9nlJRYLuuP1SmO2fOv9Q/viewform" target="_blank">Week 2</a> |
 |  9/17 | | | | |
 |  9/24 | | | | |
