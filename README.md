@@ -14,7 +14,7 @@ There are no formal prerequisites for this class. It is open to PhD students and
 Instructor: Zachary Lipton (Director of [ACMI lab](https://acmilab.org/)) \
 Time: Fridays 1:25pm - 3:30pm \
 Location: GHC 5222 (in person) \
-TA: Ivan Stelmakh ([website] https://www.cs.cmu.edu/~istelmak/)
+TA: Ivan Stelmakh ([website](https://www.cs.cmu.edu/~istelmak/))\
 Reading List: see [schedule](https://github.com/acmi-lab/cmu-10721-philosophy-machine-intelligence/blob/main/schedule.md)
 
 [syllabus and reading list forthcoming]
