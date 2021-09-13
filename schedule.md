@@ -14,4 +14,4 @@
 |  11/19 | | | | |
 |  11/26 | No Class, Thanks! |  |  |  |
 |  12/3 | | | | |
-|  12/10 | 2be or not 2be | | | |
+|  12/10 | To be, or not to be, <br> that is the question! | | | |
