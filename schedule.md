@@ -11,7 +11,7 @@
 |  10/29 | **Causality** | | | |
 |  11/5 | **Philosophy of Mind 1** <br> Substrate of Intelligence | | | |
 |  11/12 | **Philosophy of Mind 2** <br> Architecture of Mind | | | |
-|  11/19 | **Privacy | | | |
+|  11/19 | **Privacy** | | | |
 |  11/26 | No Class, Thanks! |  |  |  |
 |  12/3 | **Justice** | | | |
 |  12/10 | To be, or not to be, <br> that is the question! | | | |
