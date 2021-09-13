@@ -7,11 +7,11 @@
 |  10/1 | Philosophy of Science I <br> The Problem of Induction | <ul><li> [The Logic Of Scientific Discovery](https://drive.google.com/file/d/1-LZStI-FhxH3JmjoHiYLYl8Y6pnBXbKo/view?usp=sharing) <br> [Chapter 1] </li><li> [Estimation of Dependences Based on <br> Empirical Data. Afterword of 2006](https://drive.google.com/file/d/10z-TJ-eupH1oV-gRc-Jw7H1LsL5CpYWJ/view?usp=sharing)</li></ul>  | Lingwei Cheng <br> Ellis Brown| [Week 4](https://docs.google.com/forms/d/e/1FAIpQLScA4ajDpC9UaoQwQHBzRZtE5kHxgYautiJ7ETtL2AEIpzahXg/viewform) <br> ddl: 1:30pm 9/30 |
 |  10/8 | Philosophy of Science II <br> Psychology of Research | | | |
 |  10/15 | Philosophy of Science III <br> Discovering (Inventing?) <br> Categories | | | |
-|  10/22 | | | | |
-|  10/29 | | | | |
-|  11/5 | | | | |
-|  11/12 | | | | |
-|  11/19 | | | | |
+|  10/22 | Causal Theories of Knowledge | | | |
+|  10/29 | Causality | | | |
+|  11/5 | Philosophy of Mind 1 <br> Substrate of Intelligence | | | |
+|  11/12 | Philosophy of Mind 2 <br> Architecture of Mind | | | |
+|  11/19 | Privacy | | | |
 |  11/26 | No Class, Thanks! |  |  |  |
-|  12/3 | | | | |
+|  12/3 | Justice | | | |
 |  12/10 | To be, or not to be, <br> that is the question! | | | |
