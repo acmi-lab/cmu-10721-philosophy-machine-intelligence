@@ -6,7 +6,7 @@
 |  9/24 | Foundations of AI&ML III <br> Modern ML Emergence | <ul><li> [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf)  </li><li> [The Discipline of Machine Learning](https://drive.google.com/file/d/1MOkNJL1YRBBmd-JkDJabWxVJeHTmXGCW/view?usp=sharing)  </li><li> [Artificial Intelligence, The Revolution Hasn’t <br> Happened Yet](https://hdsr.mitpress.mit.edu/pub/wot7mkc1/release/9)  </li></ul>| Nataliya Rokhmanova <br> Max Sprigg-Dudley | [Week 3](https://docs.google.com/forms/d/e/1FAIpQLSeSyR-No0P3Mj1SqgH3rQLiZO3xrzdco-WKVupMqIp_rFt0Jw/viewform) <br> ddl: 1:30 pm 9/16|
 |  10/1 | Philosophy of Science I <br> The Problem of Induction | | | |
 |  10/8 | Philosophy of Science II <br> Psychology of Research | | | |
-|  10/15 | Philosophy of Science III <br> Discovering (or inventing?) Categories | | | |
+|  10/15 | Philosophy of Science III <br> Discovering (or inventing?) <br> Categories | | | |
 |  10/22 | | | | |
 |  10/29 | | | | |
 |  11/5 | | | | |
