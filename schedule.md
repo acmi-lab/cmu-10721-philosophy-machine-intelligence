@@ -13,5 +13,5 @@
 |  11/12 | **Privacy** <br>  | <ul> <li> [Background Reading](https://plato.stanford.edu/entries/privacy/) </li> <li> [Privacy as Contextual Integrity](https://core.ac.uk/download/pdf/267979739.pdf) </li> <li> [Calibrating Noise to Sensitivity in Private Data <br> Analysis](https://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf) </li> </ul> | | [Week 10](https://docs.google.com/forms/d/e/1FAIpQLSe_TpjHfp472tfg4u51OhrZvJBYEy-gp5bIvEqAjdL7gtC95g/viewform) <br> ddl: 1:30pm 11/11 |
 |  11/19 | **Fairness I** | | | [Week 11](https://docs.google.com/forms/d/e/1FAIpQLScYLDC8xrb_SZ9pgjiQI87vrWZAoFSOtbbIt2AuRQxkTzSE0g/viewform) <br> ddl: 1:30pm 11/18 |
 |  11/26 | No Class, Thanks! |  |  | |
-|  12/3 | **Fairness II** | | | [Week 12](https://docs.google.com/forms/d/e/1FAIpQLSfA9kwntjxTQTn3-Eq_ZFf2cAMYKtKJh4LReFNwNfV1WtpUow/viewform) <br> ddl: 1:30pm 12/02 |
+|  12/3 | **Fairness II** | | | [Week 12](https://docs.google.com/forms/d/e/1FAIpQLSfA9kwntjxTQTn3-Eq_ZFf2cAMYKtKJh4LReFNwNfV1WtpUow/viewform) <br> ddl: 1:30pm 12/2 |
 |  12/10 | To be, or not to be, <br> that is the question! | | | |
