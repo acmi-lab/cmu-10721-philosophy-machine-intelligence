@@ -1,4 +1,6 @@
-# Carnegie Mellon University 10721: Philosophical Foundations of Machine Intelligence
+# Carnegie Mellon University 10721: Philosophical Foundations of Machine Intelligence 2021 
+
+(details for 2023 coming soon)
 
 ## Logistics 
 
