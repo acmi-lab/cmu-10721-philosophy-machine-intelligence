@@ -7,7 +7,7 @@
 Instructor: Zachary Lipton (Director of [ACMI lab](https://acmilab.org/)) \
 Philosopher: [Mel Andrews](https://mel-andrews.com/)\
 Time: Thursdays 3:30pm - 5:50pm \
-Location:  (in person) \
+Location: GHC 4215 (in person) \
 TA: [Charvi Rastogi](https://sites.google.com/view/charvirastogi/home)\
 Reading List: see [schedule](https://github.com/acmi-lab/cmu-10721-philosophy-machine-intelligence/blob/main/schedule.md)
 
