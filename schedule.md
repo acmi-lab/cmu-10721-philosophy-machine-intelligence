@@ -1,6 +1,8 @@
 | Date | Topic | Readings |Speaker(s) | Weekly Check-in |
 | ---: | :--- | :--- | :--- | :--- |
-| 1/19 | Intro| Mel & Moritz|  ---  | NA |
+| 1/19 | Intro| 
+* [Melanie Mitchell — Artificial Intelligence: A Guide for Thinking Humans](https://drive.google.com/file/d/1iu8IxRclBRwZu0RmBknuN1_0IkJwz-P_/view?usp=sharing)
+* [Moritz Hardt & Ben Recht — Patterns, Predictions, Actions (chapter 1)](https://mlstory.org/) |  —  | NA |
 | 1/26 | Origins --- AI ||||
 | 2/02 | Origins --- Cybernetcs||||
 | 2/9||||
