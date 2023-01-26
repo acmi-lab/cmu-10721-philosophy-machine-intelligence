@@ -5,9 +5,9 @@
 
 Instructor: Zachary Lipton (Director of [ACMI lab](https://acmilab.org/)) \
 Philosopher: [Mel Andrews](https://mel-andrews.com/)\
+TA: [Charvi Rastogi](https://sites.google.com/view/charvirastogi/home)\
 Time: Thursdays 3:30pm - 5:50pm \
 Location: GHC 4215 (in person) \
-TA: [Charvi Rastogi](https://sites.google.com/view/charvirastogi/home)\
 Reading List: see [schedule](https://github.com/acmi-lab/cmu-10721-philosophy-machine-intelligence/blob/main/schedule.md)
 
 ## What's the course about
@@ -21,3 +21,10 @@ In this course, we will address the origins of the field through the foundationa
 There are no formal prerequisites for this class. It is open to PhD students and MS and undergraduate students may enroll with permission from the instructor. The course will not involve much theorem proving or engineering but will be considerably more reading-intensive than a typical computer science course. Students are expected to keep up with each week’s readings, write thoughtful short responses digesting the main points and relating them to modern practice in the field, and to lead or co-lead the presentation/discussion of at least one reading during the semester.
 
 [Schedule of readings](https://github.com/acmi-lab/cmu-10721-philosophy-machine-intelligence/blob/main/schedule.md)
+
+## Grading and Deliverables
+
+ * Every participant will be required to present papers, we will rotate among the enrolled / participating students and instructors with each participant presenting roughly # of papers / # of people papers over the course of the semester (roughly 3). 
+ * Every student will be required to do all the readings each week and to preregister a list of 3 questions before each session (links to each week's question form are availabel on the schedule page. Students are allowed to miss 3 weeks no questions asked, beyond that failure to register questions or attend class may impact grades. 
+ * Grading will be based on participation, attendance, delivering thoughtful questions and will mostly be generous for students participating in good faith and doing the readings. There will be no exams. Students can optionally write a paper and use time after class to get feedback.
+
