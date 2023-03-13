@@ -10,7 +10,7 @@
 | 3/9| <FONT COLOR="#ff0000">No Class </FONT> |||
 | 3/16| Categories & Kinds | **Required** <ul><li>[The Looping Effects of Human Kinds](https://drive.google.com/file/d/1rtLovrVIcg4TwtfWcO4viVgEM7acZmZ3/view?usp=sharing) </li><li> [Basic Objects in Natural Categories](https://www.sciencedirect.com/science/article/abs/pii/001002857690013X)</li><li> [Excavating AI](https://excavating.ai)</ul>|<li>Lindia Tjuatja</li><li>Simran Khanuja</li> <li>Patrick Fernandes</li> [Presenter Notes]()</li>|<li>[questions submitted](https://github.com/acmi-lab/cmu-10721-philosophy-machine-intelligence/blob/main/checkins/10721%20Weekly%20Check-in%20(2-23).csv)</li>|
 | 3/23|Epistemic Jam | **Required** <ul><li>[The Predictive Reframing of machine learning applications: good predictions and bad measurements](https://philpapers.org/rec/MUSTPR-2) </li><li> [Can Machines Learn How Clouds Work? Kawamleh](https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/can-machines-learn-how-clouds-work-the-epistemic-implications-of-machine-learning-methods-in-climate-science/36E9CE82F372AA1A8738C203D56F01D2)</li><li> [Big Data need Big Theory too Coveney et. al.](https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0153)</ul>|||
-| 3/30|Machines Knowing Stuff|||
+| 3/30|Machines Knowing Stuff|**Required** <ul><li>[The Symbol Grounding Problem. Harnad](https://arxiv.org/html/cs/9906002) </li><li> [Climbing towards NLU. Bender and Koller](https://aclanthology.org/2020.acl-main.463.pdf)</li></ul>|||
 | 4/6|Generative AI/ Bullshit Creativity|||
 | 4/13| Carnival Week Pandemonium / AGI Hootenanny|||
 | 4/20| The Troubles with Explanation|||
